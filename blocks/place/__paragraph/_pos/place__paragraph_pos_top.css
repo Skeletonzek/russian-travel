@@ -1,0 +1,10 @@
+.place__paragraph_pos_top {
+  margin: 48px 0 0;
+  grid-area: paragraph-top;
+}
+
+@media screen and (max-width: 631px) {
+  .place__paragraph_pos_top {
+    margin-top: 32px;
+  }
+}

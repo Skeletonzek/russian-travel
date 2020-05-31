@@ -2,6 +2,7 @@
   display: block;
   margin: 0;
   padding: 0;
+  width: max-content;
   font-family: 'Inter', 'Helvetica Neue', Arial, sans-serif;
   font-style: normal;
   font-weight: normal;
@@ -14,4 +15,5 @@
 
 .place__link:hover {
   opacity: .8;
-}
+  transition: opacity 2s linear;
+} 

@@ -2,7 +2,7 @@
 @import url(./__text/intro__text.css);
 @import url(./__lists/intro__lists.css);
 @import url(./__list/intro__list.css);
-@import url(./__list/_normal/intro__list_normal.css);
+@import url(./__list-normal/intro__list-normal.css);
 
 .intro {
   display: flex;
